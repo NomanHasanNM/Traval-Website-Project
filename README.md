@@ -1,1 +1,1 @@
-# Traval-Website-Project
+# Traveling-Website-Project
